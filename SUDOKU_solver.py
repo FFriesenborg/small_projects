@@ -199,4 +199,5 @@ print(sudoku_solver)
 #    for column, columns in enumerate(rows):
 #        if np.count_nonzero(row == 1) == 1:
             
-            
+          
+#DIES IST DER VERSUCH EINER ÄNDERUNG UM ZU SCHAUNE OB DER GIT PUSH FUNKTIONIERT!  
