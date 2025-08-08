@@ -10,7 +10,6 @@ def read_cv(pdf_path):
         page = pdf_document.load_page(page_num)
         text += page.get_text()
 
-    return text
+    return text;
 
 
-print(read_cv(r'C:\Users\fabic\Documents\GitHub\small_projects\Automating-Cover-Letters\20250314_CV_Fabian_Fischer_ATS.pdf'))

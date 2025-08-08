@@ -1,0 +1,95 @@
+Aufgrund meines unkonventionellen Karrierewegs möchte ich Ihnen einen Überblick über meine Ausbildung, Erfahrungen und Fähigkeiten geben. Nach meinem Bachelorabschluss in Psychologie entschied ich mich für einen technisch orientierten Masterstudiengang in "Sensorik und kognitive Psychologie". Dieser Studiengang ist technischer ausgerichtet, als der Name vermuten lässt, und ich erwarb dort Kenntnisse in Programmierung (C++ und Python) sowie erste Einblicke in die technische Usability. Durch Wahlmodule in Datenbanken, Machine Learning und Robotik vertiefte ich meine technischen Fähigkeiten weiter.
+
+Während eines sechsmonatigen Praktikums in der Konzernforschung sammelte ich wertvolle Erfahrungen in der Projektarbeit und angewandten Produktforschung. Meinen Master schloss ich mit einer praxisorientierten Masterarbeit ab, in der ich ein EEG-basiertes Brain-Computer Interface entwickelte und testete, wobei ich hauptsächlich Python für die Signal- und Datenverarbeitung nutzte.
+
+Anschließend arbeitete ich als wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit in der Forschungsgruppe "Empirische und Verhaltensorientierte Sicherheit". Dort forschte ich zu Themen wie Usable Cyber Security und verfasste wissenschaftliche Artikel zu Git Commit Signing in Open Source Software, End-to-End Encryption in Kommunikationskanälen und Transparenz in der Usable Security Forschung.
+
+Da eine Verlängerung meiner Tätigkeit ohne Promotion nicht möglich war und eine Promotion nicht meinen Interessen entsprach, wechselte ich zu einer kleinen IT-Consulting Firma. Dort war ich für die Automatisierung und Digitalisierung von Logistik- und Vertriebsprozessen eines Kunden verantwortlich. Diese Position war von Anfang an auf ein befristetes Projekt ausgelegt und primär durch persönliches Interesse motiviert.
+
+Daher bin ich derzeit auf der Suche nach einer neuen, langfristigen und herausfordernden beruflichen Perspektive.
+
+Ich habe generell einen sehr offenen und interessierten Charakter und würde Kommunikation als eine meiner größten Stärken bezeichnen. 
+
+
+
+Ich stimme Ihnen absolut zu, dass naturwissenschaftiches Know-How in praktisch allen wirtschaftlichen Bereichen, welche naturwissenschaftliche Grundlagen haben, nur vorteilhaft sein kann. 
+Denn nur jemand mit einer intrinsischen Motivation wird sich auf einer Hochzeit zwei Stunden mit einem Nuklearphysiker über die realistischen Möglichkeiten der herkömmlichen Atomkraft in Relation zu Forschungsdurchbrüchen in der Fusionskraft unterhalten. 
+Nur so jemand wird sich auf einer WG-Party mit einer Energietechnikerin aus Leoben über die Tragbarbkeit der Massen-E-Mobilität für die heimischen Stromnetze diskutieren.
+Und zuletzt wird auch nur so jemand einen ganzen Morgen die Möglichkeiten und Risiken der Kryonik für Eierstöcke mit einem Reproduktionsmediziner erörtern. 
+Zwar mag mein so erlangtes Wissens nicht vollständig beruflich verwendbar sein, aber mir vielleicht den entscheidenden kompetetetiven Vorteil verschaffen. 
+
+Das Naturwissenschaften so eine Faszination in mir auslöst führt wohl auch dazu, dass ich ein Profil habe, welches nicht eindeutig auf eine bestimmte Berufsposition deutet.
+Was ich Ihnen aber garantieren kann ist, dass ich ein enormes Interesse an drei Themen unserer Zeit habe: Biotechnologie, New Space und Energie.
+Auch wenn ich Biotechnologie in gewisser Weise im Master und in meiner Abschlussarbeit anschneiden konnte, so sehe ich in Ihrer Stellenausschreibung meine Chance den Bereich, der sich wahrscheinlich am stärksten auf unsere Spezies auswirken wird, kennen zu lernen und mitgestalten zu können: den Energiesektor.
+
+Bisher habe ich viel über meine Interessen erzählt, aber was qualifiziert mich als wertschöpfendes Teammitglied für Sie? Ich habe schon immer neue Herausforderungen für mich gesucht und war stets bereit mich selbstständig in neue und mir völlig fremde Themengebiete hineineinzuarbeiten.
+In den letzten Jahren konnte ich bereits viele praktische Erfahrungen in den Bereichen Datascience und Projektplanung sammeln und bin sehr interessiert meine Hard- und Softskill weiter auszubauen bzw. neu zu erlernen. 
+
+Nach dem Eindruck, den ich durch eine kleine Online Recherche über Ihr Unternehmen gewinnen konnte, denke ich, dass Ich gut in Ihr Team und zu Ihrer Unternehmenskultur passe. 
+
+ich habe mich sehr gefreut, die Stellenausschreibung zum Junior IAM Engineer (Job-ID:
+225678) auf Karriere.at zu entdecken. Mein Name ist Fabian Fischer, und derzeit arbeite ich als
+wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit,
+spezialisiert auf Usability und Human Factors in der Cybersecurity-Forschung.
+In meiner aktuellen Rolle bin ich tief in ein Projekt zu Git-Commit-Signaturen eingebunden, was
+mir ein starkes Verständnis für Identität, Authentizität und Autorisierung im IT-
+Sicherheitskontext vermittelt hat. Auch finde ich die von Ihnen erwähnten Open-Source-
+Eigenentwicklungen sehr interessant. Darüber hinaus verfüge ich über Erfahrung in der
+Durchführung von Interviews und schätze persönliche Zusammenarbeit mit KollegInnen und
+KundInnen.
+Mit meinem, zugegebenermaßen etwas unkonventionellen, Master-Abschluss in Sensorik und
+Kognitiver Psychologie bringe ich ein vielseitiges Fähigkeitenprofil mit. Dies umfasst
+fortgeschrittene Fähigkeiten in der Datenanalyse und Softwareentwicklung mit Python, R und
+Grundlagen in C++. Zusätzlich habe ich mich während meines Studiums intensiv mit den
+theoretischen Grundlagen des maschinellen Lernens befasst und konnte meine Kenntnisse in
+Hard- und Softwareintegration in meiner umfangreichen Masterarbeit weiter ausbauen.
+Was mich auszeichnet, ist meine Anpassungsfähigkeit und mein Engagement für
+kontinuierliches Lernen. Ich schätze kooperative Umgebungen und bin stets motiviert, mein
+Skillset weiter auszubauen und dabei sinnvoll zu Projekten beizutragen. Ich bin überzeugt
+davon, dass ich eine vielseitige und lösungsorientierte Unterstützung für Ihre Projekte im
+Identity- und Access-Management sein kann.
+Ich würde mich über die Gelegenheit freuen, Sie und die Arbeit in der Cybersecurity Ihrer Firma näher kennenzulernen und dabei zu eruieren, wie und ob meine
+Fähigkeiten und Erfahrungen mit Ihren Anforderungen übereinstimmen.
+
+
+I completed my Master's Degree in Sensor Technology and Cognitive Psychology over a
+year ago. This interdisciplinary program emphasizes the fusion of technical proficiency
+with human factors elements, enabling a comprehensive understanding of the
+interactions between humans and machines. My Master's thesis delved into Brain-
+Computer Interfaces, offering valuable insights into their medical applications.
+I anticipate significant changes in the healthcare sector in the upcoming years,
+particularly with the rapid advancements in data processing and scientific
+developments. I am eager to contribute to shaping and implementing these changes,
+and I believe that a diverse company like Dedalus offers ample opportunities to do so.
+Furthermore, I believe my background equips me well to contribute to your team. In
+addition to my capacity for independent and rapid skill acquisition, I possess a robust
+understanding of both technical and human-centered aspects of medical device
+development. Moreover, I thrive in collaborative, project-based environments
+
+
+
+Aufgrund meines unkonventionellen bisherigen Karrierewegs möchte ich Ihnen einen Überblick über meine Ausbildung,
+Erfahrungen und Fähigkeiten geben. Nach meinem Bachelorabschluss in Psychologie entschied ich mich für einen
+technisch orientierten Masterstudiengang in "Sensorik und kognitive Psychologie" an der Technischen Universität
+Chemnitz. Dieser Studiengang ist technischer ausgerichtet, als der Name vermuten lässt, und dort lernte ich unter
+anderem Programmieren (C++ und Python) und erhielt Einblicke in die technische Usability. Zusätzlich konnte ich
+durch Wahlmodule in Datenbanken (SQL), Machine Learning und Robotik meine technischen Fähigkeiten weiter
+vertiefen.
+Anschließend arbeitete ich als wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit
+in der Forschungsgruppe "Empirische und Verhaltensorientierte Sicherheit". Dort forschte ich zu Themen wie
+Usable Cyber Security und verfasste wissenschaftliche Artikel zu Git Commit Signing in Open Source Software,
+End-to-End Encryption in Kommunikationskanälen und Transparenz in der Usable Security Forschung. Ich konnte
+mich sehr für die Thematik der Cybersecurity begeistern und bin stolz, Co-Autor mehrerer spannender Paper in
+diesem Bereich zu sein. Da eine Verlängerung meiner Tätigkeit dort ohne Promotionsabsicht nicht möglich war
+und eine Promotion unter den gegebenen Umständen nicht für mich in Frage kam, wechselte ich zu einer kleinen
+IT-Consulting Firma. Dort bin ich für die Automatisierung und Digitalisierung von Logistik- und Vertriebsprozessen
+eines Kunden verantwortlich. Diese Position war von Anfang an auf ein befristetes Projekt ausgelegt und primär
+durch persönliches Interesse motiviert. Daher bin ich derzeit auf der Suche nach einer neuen, langfristigen und
+herausfordernden beruflichen Perspektive.
+Sie sehen also, dass ich bereits Einblicke in viele verschiedene Aspekte moderner Digitalisierungsbestrebungen und
+technischer Entwicklungen bekommen konnte. Zusätzlich machen mich meine Erfahrungen in der Datenanalyse
+und -visualisierung mit SQL, Python und R, meine Arbeit in der Cybersecurity sowie meine Erfahrungen in der
+Automatisierung von Business-Prozessen zu einem sehr gut qualifizierten Kandidaten für die Position als Security
+Intelligence Analyst. Ich bin analytisch, lösungsorientiert und bringe hohe Eigeninitiative mit. Ich freue mich darauf,
+meine Fähigkeiten in Ihrem Team einzubringen und zur Nachhaltigkeit und Weiterentwicklung Ihres Unternehmens
+beizutragen.

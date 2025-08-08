@@ -6,10 +6,14 @@ from mistralai import Mistral
 from analyse_ATS_CV import read_cv
 from datetime import datetime
 
-cv_information=read_cv(r'C:\Users\fabic\Documents\GitHub\small_projects\Automating-Cover-Letters\20250314_CV_Fabian_Fischer_ATS.pdf')
+language = 'German'
 
+cv_information=read_cv(r'Automating-Cover-Letters\2024-04-01_CV_Fabian_Fischer_ATS.pdf')
 
-with open(r'C:\Users\fabic\Documents\GitHub\small_projects\Automating-Cover-Letters\job_description.txt', 'r') as file:
+with open(r'Automating-Cover-Letters\example_cover_letter.txt', 'r') as file:
+    example_coverletter = file.read()
+
+with open(r'Automating-Cover-Letters\job_description.txt', 'r') as file:
     job_description = file.read()
 
 
@@ -26,7 +30,10 @@ chat_response = client.chat.complete(
     messages = [
         {
             "role": "user",
-            "content": "Please write the salutation and body of a cover letter in German (ca. 200 words) with the information from my CV: " + cv_information + " \n and the job description: " + job_description
+            "content": "Please write only the body of a (fairly factual) cover letter in " + language + "(max 300 words!) with the information from my CV: "
+            + cv_information +
+        " \n , two former cover letters: " + example_coverletter +
+        " \n and use the language and try to tailor it to the job description: " + job_description 
         }
     ]
 )
@@ -35,6 +42,9 @@ chat_response = client.chat.complete(
 
 today_date = datetime.today().strftime('%Y-%m-%d' + '_')
 
-with open(today_date + 'cover-letter.txt', 'w') as file:
+with open("Automating-Cover-Letters/cover-letters/" + today_date + 'cover-letter.txt', 'w') as file:
+    file.write(chat_response.choices[0].message.content)
+    
+with open("Automating-Cover-Letters/cover-letter.txt", 'w') as file:
     file.write(chat_response.choices[0].message.content)
 

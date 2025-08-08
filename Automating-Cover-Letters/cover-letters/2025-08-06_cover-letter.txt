@@ -1,0 +1,14 @@
+**Sehr geehrtes Team von Capgemini,**
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Requirements Engineer gelesen. Mein interdisziplinärer Werdegang in Sensortechnik, kognitiver Psychologie und angewandter Informatik hat mir ein breites Verständnis für technische Systeme, Datenanalyse und nutzerzentrierte Lösungen vermittelt – Fähigkeiten, die ich gerne in Ihr Team einbringen möchte.
+
+Während meiner Tätigkeit als wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit habe ich komplexe Anforderungen in der Cybersecurity-Forschung analysiert, strukturiert dokumentiert und in technische Lösungen überführt. Meine Arbeit umfasste die Modellierung von Prozessen, die Erstellung von Spezifikationen sowie die Zusammenarbeit mit interdisziplinären Teams – Erfahrungen, die sich direkt auf die Aufgaben eines Requirements Engineers übertragen lassen. Zudem konnte ich in meiner aktuellen Rolle als Digitalisierungs- und Automatisierungsingenieur bei Salt+Blue GmbH & Co. KG praktische Einblicke in die Anpassung von ERP-Systemen und die Schnittstellenentwicklung gewinnen.
+
+Mein Masterstudium mit Schwerpunkt auf Sensortechnik und kognitiver Psychologie hat mir nicht nur fundierte Kenntnisse in Softwareentwicklung (Python, C++, SQL) und Datenanalyse vermittelt, sondern auch ein tiefes Verständnis für nutzerzentriertes Design und Usability. Diese Kombination ermöglicht es mir, technische Anforderungen nicht nur funktional, sondern auch aus Sicht der Anwender zu betrachten – ein entscheidender Vorteil für die Erstellung von Use Cases und User Stories.
+
+Besonders reizvoll an Ihrer Position finde ich die Möglichkeit, in einem internationalen Umfeld an zukunftsweisenden Projekten mitzuwirken. Meine analytische Denkweise, meine Erfahrung in der strukturierten Dokumentation von Anforderungen und meine Begeisterung für agile Methoden machen mich zu einem passenden Kandidaten für Ihr Team. Ich bin überzeugt, dass meine Fähigkeiten und meine Lernbereitschaft einen wertvollen Beitrag zu Ihren Projekten leisten können.
+
+Über die Gelegenheit, mich in einem persönlichen Gespräch näher vorzustellen, freue ich mich sehr.
+
+Mit freundlichen Grüßen,
+Fabian C. Fischer

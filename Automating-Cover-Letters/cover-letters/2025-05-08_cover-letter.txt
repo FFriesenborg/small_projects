@@ -1,0 +1,15 @@
+Sehr geehrtes Recruiting-Team von [Name of the company],
+
+auf Ihre Stellenausschreibung für die Position im Team der Architekten (w/m/d) bewerbe ich mich hiermit. Mein interdisziplinärer Werdegang und meine bisherigen Erfahrungen in der Softwareentwicklung und Datenanalyse machen mich zu einem idealen Kandidaten für diese Rolle.
+
+Mein Masterabschluss in Sensor Technology und Cognitive Psychology hat mir ein tiefes Verständnis für die Interaktion zwischen Software und Hardware vermittelt. Während meiner Tätigkeit bei Volkswagen, CISPA und Salt+Blue GmbH & Co. KG habe ich wertvolle praktische Erfahrungen in den Bereichen Projektplanung, Signalverarbeitung, Datenanalyse, Cybersecurity und Softwareentwicklung gesammelt. Besonders hervorheben möchte ich meine Kenntnisse in Python, SQL, LaTeX und REST API, die ich in verschiedenen Projekten angewendet habe.
+
+Meine Arbeit bei CISPA, wo ich an der Schnittstelle von Cybersecurity und Human Factors forschte, hat mir ein starkes Verständnis für Identität, Authentizität und Autorisierung im IT-Sicherheitskontext vermittelt. Bei Salt+Blue GmbH & Co. KG war ich für die Automatisierung und Digitalisierung von Logistik- und Vertriebsprozessen verantwortlich, was meine Fähigkeiten in der Umsetzung kleinerer Softwarelösungen und der Unterstützung von Governance-Aufgaben weiter gestärkt hat.
+
+Ich schätze kooperative Arbeitsumgebungen und bin stets motiviert, mein Skillset weiter auszubauen und sinnvoll zu Projekten beizutragen. Ihre Unternehmenskultur und die angebotenen Weiterbildungsmöglichkeiten, wie die Onboarding-Woche und regelmäßige Teambuilding-Events, sprechen mich sehr an. Ich bin überzeugt, dass ich durch meine analytische Arbeitsweise und meine Hands-on-Mentalität eine wertvolle Bereicherung für Ihr Team sein kann.
+
+Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in Ihrem Unternehmen einzubringen und zur Nachhaltigkeit und Weiterentwicklung beizutragen. Über die Möglichkeit, Sie und die Arbeit in Ihrem Team näher kennenzulernen, würde ich mich sehr freuen.
+
+Mit freundlichen Grüßen,
+
+Fabian C. Fischer

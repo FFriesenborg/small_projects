@@ -1,0 +1,18 @@
+Sehr geehrtes Recruiting-Team von Münzer,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Data Analyst gelesen. Aufgrund meines unkonventionellen Karrierewegs möchte ich Ihnen einen Überblick über meine Ausbildung, Erfahrungen und Fähigkeiten geben.
+
+Nach meinem Bachelorabschluss in Psychologie entschied ich mich für einen technisch orientierten Masterstudiengang in "Sensorik und kognitive Psychologie" an der Technischen Universität Chemnitz. Dieser Studiengang ist technischer ausgerichtet, als der Name vermuten lässt, und dort lernte ich unter Anderem Programmieren (C++ und Python) sowie erste Einblicke in die technische Usability. Zusätzlich konnte ich durch Wahlmodule in Datenbanken, Machine Learning und Robotik meine technischen Fähigkeiten weiter vertiefen.
+
+Während eines sechsmonatigen Praktikums in der Konzernforschung bei Volkswagen konnte ich mir erste Fähigkeiten in der Projektarbeit und angewandten Produktforschung aneignen. Meinen Master schloss ich mit einer praxisorientierten Masterarbeit ab, in der ich ein EEG-basiertes Brain-Computer Interface entwickelte und testete. Hier nutzte ich hauptsächlich Python für die Signal- und Datenverarbeitung und konnte meine Skills dadurch noch einmal verbessern.
+
+Anschließend arbeitete ich als wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit in der Forschungsgruppe "Empirische und Verhaltensorientierte Sicherheit". Dort forschte ich zu Themen wie Usable Cyber Security und verfasste wissenschaftliche Artikel zu Git Commit Signing in Open Source Software, End-to-End Encryption in Kommunikationskanälen und Transparenz in der Usable Security Forschung.
+Da eine Verlängerung meiner Tätigkeit dort ohne Promotionsabsicht nicht möglich war und eine Promotion nicht meinem Interesse entsprach, wechselte ich zu einer kleinen IT-Consulting Firma. Dort bin ich für die Automatisierung und Digitalisierung von Logistik- und Vertriebsprozessen eines Kunden verantwortlich. Diese Position war von Anfang an auf ein befristetes Projekt ausgelegt und primär durch persönliches Interesse motiviert. Daher bin ich derzeit auf der Suche nach einer neuen, langfristigen und herausfordernden beruflichen Perspektive.
+
+Ich habe stets neue Herausforderungen gesucht und mich selbstständig in neue Themengebiete eingearbeitet. In den letzten Jahren konnte ich bereits viele praktische Erfahrungen in den Bereichen Data Science und Projektplanung sammeln und bin sehr interessiert, meine Hard- und Softskills weiter auszubauen bzw. neu zu erlernen.
+
+Ich bin überzeugt, dass ich gut in Ihr Team und zu Ihrer Unternehmenskultur passe und freue mich darauf, Sie in einem persönlichen Gespräch von mir überzeugen zu dürfen.
+
+Mit freundlichen Grüßen,
+
+Fabian C. Fischer

@@ -1,0 +1,17 @@
+Sehr geehrte Damen und Herren,
+
+mein unkonventioneller Karriereweg hat mich zu einem vielseitigen und interdisziplinär denkenden Experten gemacht. Nach meinem Bachelorabschluss in Psychologie entschied ich mich für einen technisch orientierten Masterstudiengang in "Sensorik und kognitive Psychologie" an der Technischen Universität Chemnitz. Dort erwarb ich Kenntnisse in Programmierung (C++ und Python) sowie Einblicke in die technische Usability. Durch Wahlmodule in Datenbanken (SQL), Machine Learning und Robotik vertiefte ich meine technischen Fähigkeiten weiter.
+
+Während eines sechsmonatigen Praktikums bei Volkswagen sammelte ich wertvolle Erfahrungen in der Projektarbeit und angewandten Usability-Forschung. Meinen Master schloss ich mit einer praxisorientierten Masterarbeit ab, in der ich ein EEG-basiertes Brain-Computer Interface entwickelte und testete, wobei ich umfassende Skills in Python bei der Signal- und Datenverarbeitung sammelte.
+
+Anschließend arbeitete ich als wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum für Informationssicherheit in der Forschungsgruppe "Empirische und Verhaltensorientierte Sicherheit". Dort forschte ich zu Themen wie Usable Cyber Security und verfasste wissenschaftliche Artikel zu Git Commit Signing in Open Source Software, Humand Factors in End-to-End Encryption in Kommunikationskanälen und Transparenz in der Usable Security Forschung.
+
+Da eine Verlängerung meiner Tätigkeit ohne Promotion nicht möglich war und eine Promotion nicht meinen Interessen entsprach, wechselte ich zu einer kleinen IT-Consulting Firma. Dort war ich für die Automatisierung und Digitalisierung von Logistik- und Vertriebsprozessen eines Kunden verantwortlich. Diese Position war von Anfang an auf ein befristetes Projekt ausgelegt und primär durch persönliches Interesse motiviert.
+
+Daher bin ich derzeit auf der Suche nach einer neuen, langfristigen und herausfordernden beruflichen Perspektive. Meine Erfahrungen in der Datenanalyse und -visualisierung mit SQL, Python und R, meine Arbeit in der Cybersecurity sowie meine Erfahrungen in der Automatisierung von Business-Prozessen machen mich zu einem sehr gut qualifizierten Kandidaten für die Position als Usability Manager / Human Factors Engineer. Ich bin analytisch, lösungsorientiert und bringe hohe Eigeninitiative mit.
+
+Ich freue mich darauf, meine Fähigkeiten in Ihrem Team einzubringen und zur Nachhaltigkeit und Weiterentwicklung Ihres Unternehmens beizutragen.
+
+Mit freundlichen Grüßen,
+
+Fabian C. Fischer

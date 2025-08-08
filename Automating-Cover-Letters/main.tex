@@ -1,0 +1,83 @@
+
+\documentclass[11pt, a4paper, roman]{letter}
+\usepackage[utf8]{inputenc}
+
+\usepackage[top = 12mm, bottom = 12mm, left=10mm, right=10mm]{geometry} %determines page margins / document formatting
+\usepackage[T1]{fontenc}  % We are using pdfLaTeX,
+\usepackage[utf8]{inputenc} %allows direct input of accented characters
+\usepackage{ragged2e} %allows for right aligned / left aligned text instead of all justified
+
+\usepackage[UKenglish]{babel} %sets hypenation / spelling etc
+\usepackage[stretch = 25, shrink = 25]{microtype}  %for better formatting of words in a line / sentence
+
+
+\usepackage{graphicx} %Required for inserting images
+\usepackage{fontawesome} %for nice icons
+\usepackage{ngerman}
+\usepackage{fancyhdr} %to create header and footer
+
+\usepackage{enumitem} % To redefine spacing in lists
+
+\usepackage{xcolor} %To add colour to the document
+\definecolor{cvteal}{HTML}{008080} %Change this to be any hexcode
+\definecolor{cvblue}{HTML}{304263} %Change this to be any hexcode
+\usepackage[colorlinks = true, urlcolor = black, linkcolor = white]{hyperref}
+\usepackage{lipsum} %Generate dummy text
+\begin{document}
+
+\pagestyle{empty}
+\raggedbottom
+
+\begin{minipage}[t]{0.5\textwidth}
+    \vspace*{\fill}
+    \textsc{{\Huge Fabian Fischer}, {\LARGE MSc.}} %Name & Suffix if appropriate
+    \vspace*{\fill}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.3\textwidth}
+    \setlength{\baselineskip}{15pt}
+    \RaggedLeft 
+    \faMobile{} +49 173 4735400\\
+    \faHome{} Wien/ Österreich\\ 
+    \faEnvelope {} fabi.c.fischer@gmail.com\\ 
+    %\faLinkedinSquare{} in/linedin profuke
+\end{minipage}
+
+{\color{cvteal} \rule{\linewidth}{1mm}}
+
+\begin{minipage}[t]{\textwidth}
+
+    \begin{letter} {HR/ Hiring Manager\\Engelhorngasse 3\\
+\\1210 Wien} %receipients address
+%\setlength{\parskip}{5pt} %set inter-parapgraph distance
+%\setlength{\baselineskip}{15pt} %set inter-line distance
+
+
+    \begin{center} {\textbf{Position:} \underline{Healthcare Consultant}} \end{center}
+
+\setlength{\parskip}{20pt}
+
+\input{Automating-Cover-Letters/cover-letter.txt}
+
+
+\end{letter}
+\end{minipage}
+
+\vspace*{\fill}
+
+
+
+
+{
+\setlength{\parskip}{10pt}
+\setlength{\parindent}{10pt}
+\setlength{\baselineskip}{15pt}
+
+
+}
+
+Mit freundlichen Grüßen\\\textbf{Fabian C. Fischer}
+
+\vspace*{\fill}
+
+{\color{cvteal} \rule{\linewidth}{1mm}}
+\end{document}

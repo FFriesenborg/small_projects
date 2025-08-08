@@ -1,0 +1,19 @@
+\begin{document}
+
+Sehr geehrtes Recruiting-Team von [Name of the company],
+
+ich habe mich sehr gefreut auf Stepstone auf Ihr Stelleninserat zu stoßen, da ich glaube ein sehr gut passender Kandidat für die Position als UI/UX Designer zu sein. Von daher möchte ich Ihnen zunächst einen Überblick über meinen bisherigen Karriereweg geben. Nach dem Psychologiestudium habe ich mich bewusst für einen technisch orientierten Master in Sensorik und kognitive Psychologie an der TU Chemnitz entschieden. Dabei ging es mir vor allem darum, psychologische Perspektiven mit Technik zu verbinden. Im Studium habe ich Programmieren gelernt (C++ und Python), Einblicke in technische Usability bekommen und mich in Wahlmodulen mit Datenbanken (SQL), Machine Learning und Robotik beschäftigt. Insgesamt ist das Kernthema des Studiengangs die Mensch-Maschine-Interaktion aus verschiedenen wissensachftlichen Disziplinen zu beleuchten. Dieses akademisch Wissen konnte ich mit meinem Praktikum in der Usabilityforschung bei VW in der praktischen Anwendung ausbauen.
+
+Nach meiner Masterarbeit über Brain-Computer Interfaces arbeitete ich als wissenschaftlicher Mitarbeiter am CISPA Helmholtz-Zentrum. Dort habe ich zu Themen wie Usable Security geforscht und bin u.a. Co-Autor wissenschaftlicher Artikel über Git Commit Signing und Ende-zu-Ende-Verschlüsselung.
+
+Aktuell arbeite ich bei Salt+Blue als Automation & Digitalization Engineer. Ich bin dort vor allem für die Automatisierung und Digitalisierung von Prozessen in Logistik und Vertrieb zuständig. Dabei geht es oft darum, interne Abläufe verständlich, effizient und nutzerfreundlich zu gestalten, was ich nicht nur persönlich schätze sondern auch notwendig für den effizienten Ablauf von Arbeitsprozessen halte.
+
+Die ausgeschriebene Stelle als UI/UX Designer / Product Experience Designer passt sehr gut zu dem, was ich mitbringe: technisches Verständnis, Erfahrung in der Datenanalyse (SQL, Python, R), ein Gespür für Nutzerperspektiven und die Fähigkeit, strukturiert und lösungsorientiert zu arbeiten. Ich finde es spannend, Nutzererlebnisse aktiv mitzugestalten und Prozesse so zu entwickeln, dass sie nicht nur funktionieren, sondern auch intuitiv bedienbar sind.
+
+Ich würde mich freuen Sie in einem persönlichen Kennenlernen weiter von mir überzeugen zu können.
+
+Mit freundlichen Grüßen,
+
+Fabian C. Fischer
+
+\end{document}
